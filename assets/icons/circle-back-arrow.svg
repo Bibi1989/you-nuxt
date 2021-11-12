@@ -1,0 +1,23 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_d_2:687)">
+    <circle cx="20" cy="18" r="16" fill="white"/>
+    </g>
+    <g clip-path="url(#clip0_2:687)">
+    <path d="M14.8208 18.7525C14.7553 18.911 14.7553 19.089 14.8208 19.2475C14.8524 19.326 14.8992 19.3977 14.9583 19.4583L19.5417 24.0416C19.6632 24.1632 19.8281 24.2315 20 24.2315C20.1719 24.2315 20.3368 24.1632 20.4583 24.0416C20.5799 23.9201 20.6482 23.7552 20.6482 23.5833C20.6482 23.4114 20.5799 23.2465 20.4583 23.125L16.9796 19.6462L24.5833 19.6508C24.6689 19.6511 24.7537 19.6345 24.8328 19.602C24.9119 19.5694 24.9838 19.5215 25.0443 19.4609C25.1048 19.4004 25.1528 19.3286 25.1853 19.2494C25.2179 19.1703 25.2345 19.0855 25.2342 19C25.2345 18.9144 25.2179 18.8296 25.1853 18.7505C25.1528 18.6714 25.1048 18.5995 25.0443 18.539C24.9838 18.4785 24.9119 18.4305 24.8328 18.3979C24.7537 18.3654 24.6689 18.3488 24.5833 18.3491L16.9796 18.3537L20.4583 14.875C20.5799 14.7534 20.6482 14.5885 20.6482 14.4166C20.6482 14.2447 20.5799 14.0798 20.4583 13.9583C20.3368 13.8367 20.1719 13.7684 20 13.7684C19.8281 13.7684 19.6632 13.8367 19.5417 13.9583L14.9583 18.5416C14.8992 18.6022 14.8524 18.6739 14.8208 18.7525Z" fill="#0F808C"/>
+    </g>
+    <defs>
+    <filter id="filter0_d_2:687" x="0" y="0" width="40" height="40" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+    <feOffset dy="2"/>
+    <feGaussianBlur stdDeviation="2"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0.00784314 0 0 0 0 0.226196 0 0 0 0 0.34902 0 0 0 0.16 0"/>
+    <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2:687"/>
+    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2:687" result="shape"/>
+    </filter>
+    <clipPath id="clip0_2:687">
+    <rect width="15.5564" height="15.5564" fill="white" transform="translate(20 30) rotate(-135)"/>
+    </clipPath>
+    </defs>
+    </svg>
+    
